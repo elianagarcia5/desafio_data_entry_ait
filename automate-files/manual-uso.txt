@@ -1,0 +1,17 @@
+Manual de Uso del Programa
+
+Este manual te guiará a través de los pasos necesarios para utilizar el programa, 
+en que orden ir ejecutando los archivos.
+
+1. Instalación y configuración inicial:
+   - Asegúrate de tener Python instalado en tu sistema.
+   - Instala las bibliotecas necesarias ejecutando `pip install -r requirements.txt`.
+
+2. Ejecución de los archivos:
+   1 - ejecutar download-files.py (en donde se descarga los archivos)
+   2 - ejecutar rename-files.py (en donde ajustan los nombres, para facilitar la estandarizacion en el siguiente paso)
+   3-  ejecutar standardize.py (donde se formatean y ajustan los archivos excel)
+   4-  ejecutar apifile.py (si sale todo bien para subir los archivos)
+
+5. Notas:
+    
