@@ -1,0 +1,16 @@
+Manual de Uso del Programa
+
+Este manual te guiará a través de los pasos necesarios para utilizar el programa, 
+en que orden ir ejecutando los archivos.
+
+1. Instalación y configuración inicial:
+   - Asegúrate de tener Python instalado en tu sistema.
+   - Instala las bibliotecas necesarias ejecutando `pip install -r requirements.txt`.
+
+2. Ejecución de los archivos:
+   1 - ejecutar automatizador_descarga.py (en donde se descarga los archivos)
+   2 - ejecutar automatizador_modificacion.py (donde se realizan todas las modificaciones de los archivos)
+   
+
+5. Notas:
+    
